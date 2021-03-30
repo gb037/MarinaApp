@@ -1,0 +1,14 @@
+C:\Users\Gregory Boyle\Documents\Windows\software_implementation\Main Assignment\Marina App V6\MarinaAppV6\MarinaAppV6\bin\Debug\MarinaAppV6.exe.config
+C:\Users\Gregory Boyle\Documents\Windows\software_implementation\Main Assignment\Marina App V6\MarinaAppV6\MarinaAppV6\bin\Debug\MarinaAppV6.exe
+C:\Users\Gregory Boyle\Documents\Windows\software_implementation\Main Assignment\Marina App V6\MarinaAppV6\MarinaAppV6\bin\Debug\MarinaAppV6.pdb
+C:\Users\Gregory Boyle\Documents\Windows\software_implementation\Main Assignment\Marina App V6\MarinaAppV6\MarinaAppV6\obj\Debug\MarinaAppV6.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Boyle\Documents\Windows\software_implementation\Main Assignment\Marina App V6\MarinaAppV6\MarinaAppV6\obj\Debug\MarinaAppV6.exe
+C:\Users\Gregory Boyle\Documents\Windows\software_implementation\Main Assignment\Marina App V6\MarinaAppV6\MarinaAppV6\obj\Debug\MarinaAppV6.pdb
+C:\Users\Gregory Boyle\Documents\Windows\software_implementation\Main Assignment\Marina App V6\MarinaAppV6\MarinaAppV6\obj\Debug\MarinaAppV6.csprojAssemblyReference.cache
+C:\Users\grege\Desktop\ict\job-search\work-samples\software-implementation\run\source\MarinaAppV6\MarinaAppV6\bin\Debug\MarinaAppV6.exe.config
+C:\Users\grege\Desktop\ict\job-search\work-samples\software-implementation\run\source\MarinaAppV6\MarinaAppV6\bin\Debug\MarinaAppV6.exe
+C:\Users\grege\Desktop\ict\job-search\work-samples\software-implementation\run\source\MarinaAppV6\MarinaAppV6\bin\Debug\MarinaAppV6.pdb
+C:\Users\grege\Desktop\ict\job-search\work-samples\software-implementation\run\source\MarinaAppV6\MarinaAppV6\obj\Debug\MarinaAppV6.csprojAssemblyReference.cache
+C:\Users\grege\Desktop\ict\job-search\work-samples\software-implementation\run\source\MarinaAppV6\MarinaAppV6\obj\Debug\MarinaAppV6.csproj.CoreCompileInputs.cache
+C:\Users\grege\Desktop\ict\job-search\work-samples\software-implementation\run\source\MarinaAppV6\MarinaAppV6\obj\Debug\MarinaAppV6.exe
+C:\Users\grege\Desktop\ict\job-search\work-samples\software-implementation\run\source\MarinaAppV6\MarinaAppV6\obj\Debug\MarinaAppV6.pdb
